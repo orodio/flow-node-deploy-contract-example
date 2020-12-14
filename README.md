@@ -21,3 +21,7 @@ Examples in .env.example file.
 ```sh
 node index.js
 ```
+
+# Notes
+
+Built and tested with Node Version `v15.2.1`. Private key provided is an example and is not used for anything, including as a registered key for provide flow account...
